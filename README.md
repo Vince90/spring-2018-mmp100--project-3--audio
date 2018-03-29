@@ -11,7 +11,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 [http://mmp.bmcc.cuny.edu/vincent.bustamante/spring-2018/mmp-100/project-3]([http://mmp.bmcc.cuny.edu/vincent.bustamante/spring-2018/mmp-100/project-3)
 
 ### Description
-Your description goes here.
+For my audio project, I chose to use my walk to the subway from my apartment. New York City is an incredibly sound orientated city. Many of the sounds you can hear are very common to on a daily commute.  
 
 ## Rules
 * **Do not** add or remove any files to this repo.
